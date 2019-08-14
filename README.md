@@ -21,10 +21,14 @@ _greaterThan(edad, value) {
 }
 ```    
 Seleccione una:
+
 a. Se muestra un listado de todos los elementos de "personas", donde la edad es mayor a 18.
+
 b. Muestra una lista de todos los elementos de "personas".
 c. No es la forma correcta de iterar "personas", por ese motivo no muestra nada. 
+
 d. Muestra una lista con todos los elementos de "personas", donde la edad no es mayor a 18.
+
 
 2. 
 
