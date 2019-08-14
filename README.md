@@ -25,11 +25,24 @@ Seleccione una:
 a. Se muestra un listado de todos los elementos de "personas", donde la edad es mayor a 18.
 
 b. Muestra una lista de todos los elementos de "personas".
+
 c. No es la forma correcta de iterar "personas", por ese motivo no muestra nada. 
 
 d. Muestra una lista con todos los elementos de "personas", donde la edad no es mayor a 18.
 
 
-2. 
+2. ¿Para que se usa ```javascript this.$.id?```
+
+Seleccione una:
+
+a. Para seleccionar un nodo especifico que exista en el documento.
+
+b. Para seleccionar un nodo especifico creado dinámicamente en el local DOM del elemento.
+
+c. Para seleccionar un nodo especifico que este dentro del elemento, ya sea en si mismo o en
+elementos hijos.
+
+d. Para seleccionar un nodo especifico creado estáticamente en el local DOM del elemento.
+
 
 ### Programación Orientada a objetos 
