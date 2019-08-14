@@ -4,7 +4,7 @@
 
 ### Polymer 2
 
-1.- <span style="color:#197;">Imaginemos que se tiene un arreglo de objetos llamado personas y que cada uno de los objetos tiene 3 propiedades: nombre, apellidoPat y edad, ¿Qué pasará al ejecutar el código siguiente?</span>
+##### 1.- <span style="color:#197;">Imaginemos que se tiene un arreglo de objetos llamado personas y que cada uno de los objetos tiene 3 propiedades: nombre, apellidoPat y edad, ¿Qué pasará al ejecutar el código siguiente?</span>
 
 ```html
 <template is = "dom-repeat" items = "personas" as = "persona">
@@ -30,7 +30,7 @@ c. No es la forma correcta de iterar "personas", por ese motivo no muestra nada.
 
 d. Muestra una lista con todos los elementos de "personas", donde la edad no es mayor a 18.
 
-2.- ¿Para que se usa ```this.$.id```?
+##### 2.- ¿Para que se usa ```this.$.id```?
 
 Seleccione una:
 
