@@ -30,7 +30,8 @@ c. No es la forma correcta de iterar "personas", por ese motivo no muestra nada.
 
 d. Muestra una lista con todos los elementos de "personas", donde la edad no es mayor a 18.
 
-##### 2.- ¿Para que se usa ```this.$.id```?
+
+##### 2.- ¿Para que se usa ```this.$.id```?
 
 Seleccione una:
 
